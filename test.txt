@@ -5,4 +5,6 @@
 
 "Modifica nel branch fastForward" 
 "Modifica nel branch recursiveBranch" 
-"Modifica nel branch master" 
+"Modifica nel branch master"
+"Modifica nel branch conflictBranch" 
+
